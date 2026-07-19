@@ -1,6 +1,6 @@
 # Week 3 SQL Assignment
 
-**Name:** Fatimah Rao
+**Name:** Fatima Ramzan
 
 **Assignment:** Week 3 - SQL Fundamentals
 
